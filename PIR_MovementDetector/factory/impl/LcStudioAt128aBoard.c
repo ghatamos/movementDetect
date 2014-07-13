@@ -1,0 +1,23 @@
+/// \description
+/// Platform factory for the Atmega 128a LC studio board
+
+// include files
+#include "factory/PlatformFactory.h"
+
+// global variables
+
+// constants
+
+// file scope variables
+
+// file scope functions
+
+/////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+// PlatformFactory API implementation
+//////////////////////////////////////////////////////////////////////////
+void PlatformFactory(void)
+{
+	return;	
+}
