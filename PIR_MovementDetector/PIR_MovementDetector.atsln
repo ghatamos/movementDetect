@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Atmel Studio Solution File, Format Version 11.00
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "PIR_MovementDetector", "PIR_MovementDetector.cproj", "{FA59F99B-8C8C-44CD-A147-52DA741FDB80}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "IGpioUnitTest", "IGpioUnitTest.cproj", "{1779E2A4-249A-4175-9E9E-E6824761A39F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -13,6 +15,10 @@ Global
 		{FA59F99B-8C8C-44CD-A147-52DA741FDB80}.Debug|AVR.Build.0 = Debug|AVR
 		{FA59F99B-8C8C-44CD-A147-52DA741FDB80}.Release|AVR.ActiveCfg = Release|AVR
 		{FA59F99B-8C8C-44CD-A147-52DA741FDB80}.Release|AVR.Build.0 = Release|AVR
+		{1779E2A4-249A-4175-9E9E-E6824761A39F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1779E2A4-249A-4175-9E9E-E6824761A39F}.Debug|AVR.Build.0 = Debug|AVR
+		{1779E2A4-249A-4175-9E9E-E6824761A39F}.Release|AVR.ActiveCfg = Release|AVR
+		{1779E2A4-249A-4175-9E9E-E6824761A39F}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

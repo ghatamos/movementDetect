@@ -7,6 +7,7 @@
 
 // include files
 #include <avr/io.h>
+#include "factory/PlatformFactory.h"
 
 // global variables
 
@@ -15,9 +16,6 @@
 // file scope variables
 
 // file scope functions
-/// \desc Setup a working platfrom
-/// \retval	none
-static void PlatformFactory(void);
 
 /////////////////////////////////////////
 
@@ -38,7 +36,3 @@ int main(void)
 // File scope function implementation
 //////////////////////////////////////////////////////////////////////////
 
-void PlatformFactory(void)
-{
-	return;
-}
